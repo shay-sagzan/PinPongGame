@@ -1,0 +1,49 @@
+#div {
+    display: block;
+    padding: 40px 5px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    border: 1px solid none;
+
+}
+
+button {
+    display: inline-block;
+    width: 120px;
+    height: 30px;
+    color: white;
+    transition-duration: 0.4s;
+    padding: 0%;
+}
+
+#btn1 {
+    background-color: green;
+
+}
+
+#btn2 {
+    background-color: blue;
+
+}
+
+#resbtn {
+    background-color: red;
+
+}
+
+h3 {
+    border: 1px solid grey;
+}
+
+img {
+    width: 400px;
+}
+
+.winner {
+    color: green;
+}
+
+.loser {
+    color: red
+}
